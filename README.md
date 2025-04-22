@@ -6,6 +6,13 @@ This project is a full-stack application for analyzing resumes and matching them
 3. **AI Service (Flask)**: Performs resume analysis and matching using machine learning.
 
 ---
+## Access to Code Files
+
+If you're unable to clone or run the full project due to size limitations, you can directly access the complete codebase (including backend, frontend, and AI service) via the following Google Drive link:
+
+🔗 [Download Resume Analyzer Project](https://drive.google.com/drive/folders/1_U4p0KFvLy0T8a6NCEWUwXDDQ5KLZhtE?usp=share_link)
+
+---
 
 ## Prerequisites
 
